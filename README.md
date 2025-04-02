@@ -7,4 +7,5 @@ Input:
 Output
    simple interest = p*t*r
 
-   #soft, cool amd calm
+   #soft, cool amd calm....
+   #im okay 
