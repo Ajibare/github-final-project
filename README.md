@@ -8,7 +8,7 @@ Output
    simple interest = p*t*r
 
    #soft, cool amd calm....
-   #im okay 
+   #im okay 🆗🆗🆗
 
 
 it's all about Been a 
